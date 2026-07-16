@@ -20,7 +20,6 @@ I work across threat intelligence, malware analysis, OSINT, adversary research a
 * Threat Intelligence and adversary tracking
 * Malware analysis and detection engineering
 * Offensive security and Red Team operations
-* YARA, Sigma, OSINT and CSINT
 * Python, Rust and Nim development
 * Security automation and AI agents
 * Building **OffX**, an offensive-security language model
