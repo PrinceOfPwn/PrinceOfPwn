@@ -5,6 +5,8 @@
 
 **Пусть мир горит.**
 
+https://princeofpwn.github.io/Hugin/
+
 *Understand the adversary. Control the chaos.*
 
 </div>
